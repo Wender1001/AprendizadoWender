@@ -1,4 +1,4 @@
-// primeira forma when
+package Loops// primeira forma when
 
 fun operacaoInteiros(a: Int, b: Int, str: String): Int {
 
@@ -65,18 +65,18 @@ fun main() {
 
     println("inteiros")
     println()
-    println(operacaoInteiros(10,10,"soma"))
-    println(operacaoInteiros(10,10,"subtração"))
-    println(operacaoInteiros(10,10,"multiplicação"))
-    println(operacaoInteiros(10,10,"divisão"))
+    println(operacaoInteiros(10, 10, "soma"))
+    println(operacaoInteiros(10, 10, "subtração"))
+    println(operacaoInteiros(10, 10, "multiplicação"))
+    println(operacaoInteiros(10, 10, "divisão"))
     println()
 
     println("reais")
     println()
-    println(operacaoReais(10.5f,10.5f,"soma"))
-    println(operacaoReais(10.5f,10.5f,"subtração"))
-    println(operacaoReais(10.5f,10.5f,"multiplicação"))
-    println(operacaoReais(10.5f,10.5f,"divisão"))
+    println(operacaoReais(10.5f, 10.5f, "soma"))
+    println(operacaoReais(10.5f, 10.5f, "subtração"))
+    println(operacaoReais(10.5f, 10.5f, "multiplicação"))
+    println(operacaoReais(10.5f, 10.5f, "divisão"))
 
     println("idade")
 

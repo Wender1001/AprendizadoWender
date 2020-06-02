@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48b0df8f-c831-4860-a20d-7233c0abad65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowFor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowWhile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/ReverseString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/ReverseStringTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetos/Classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetos/ClassesEnum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetos/Constants e Statics.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetos/Herança.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetos/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetos/Pessoa1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Exception.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Param.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/TestePacote.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AprendizadoWender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AprendizadoWender.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AprendizadoWender/META-INF/AprendizadoWender.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AprendizadoWender/META-INF/AprendizadoWender.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AprendizadoWender/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AprendizadoWender/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AprendizadoWender/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlowFor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/FlowFor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlowWhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/FlowWhen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlowWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/FlowWhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,49 +34,11 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FlowFor.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="9" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlowWhile.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlowWhen.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_R" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
         <option value="Kotlin File" />
       </list>
@@ -74,56 +47,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Testes.java" />
-        <option value="$PROJECT_DIR$/src/Main.kt" />
-        <option value="$PROJECT_DIR$/src/FlowWhile.kt" />
-        <option value="$PROJECT_DIR$/src/FlowWhen.kt" />
-        <option value="$PROJECT_DIR$/src/FlowFor.kt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="91" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
-  </component>
+  <component name="ProjectId" id="1bGqnTnHhwIYBHayFs8B9S3WlGe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AprendizadoWender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AprendizadoWender" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AprendizadoWender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AprendizadoWender" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ProjetoMobile/JobbersMobile/J0BBERSMOB" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wender.ramos\Desktop\bandtec\AprendizadoWender\AprendizadoWender\src\basic" />
+      <recent name="C:\Users\wender.ramos\Desktop\bandtec\AprendizadoWender\AprendizadoWender\src" />
+      <recent name="C:\Users\wender.ramos\Desktop\bandtec\AprendizadoWender\AprendizadoWender\src\Loops" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,41 +80,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.FlowWhileKt">
-    <configuration name="FlowWhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.ClassesEnumKt">
+    <configuration name="ClassesEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AprendizadoWender" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FlowWhenKt" />
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetos.ClassesEnumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AprendizadoWender" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FlowWhileKt" />
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetos.ClassesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AprendizadoWender" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="MAIN_CLASS_NAME" value="basic.ExceptionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="AprendizadoWender" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basic.OperatorsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="AprendizadoWender" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basic.ParamKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,9 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FlowWhileKt" />
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.FlowWhenKt" />
+        <item itemvalue="Kotlin.ClassesEnumKt" />
+        <item itemvalue="Kotlin.ClassesKt" />
+        <item itemvalue="Kotlin.OperatorsKt" />
+        <item itemvalue="Kotlin.ExceptionKt" />
+        <item itemvalue="Kotlin.ParamKt" />
       </list>
     </recent_temporary>
   </component>
@@ -196,71 +167,66 @@
       <option name="presentableId" value="Default" />
       <updated>1582849074965</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;continous learning&quot;">
+      <created>1584819523920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584819523920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21056548" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Resources Explorer" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25460455" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32569557" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Assistant" order="8" weight="0.24508321" />
-    </layout>
+  <component name="TestHistory">
+    <history-entry file="ReverseStringTest - 2020.04.20 at 15h 07m 58s.xml">
+      <configuration name="ReverseStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStringTest - 2020.04.20 at 15h 18m 01s.xml">
+      <configuration name="ReverseStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStringTest - 2020.04.20 at 15h 18m 23s.xml">
+      <configuration name="ReverseStringTest" configurationId="JUnit" />
+    </history-entry>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Testes.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlowWhile.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlowWhen.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlowFor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="9" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;continous learning&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;continous learning&quot;" />
   </component>
   <component name="masterDetails">
     <states>
@@ -324,6 +290,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
